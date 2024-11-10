@@ -1,0 +1,15 @@
+# Исключение для папок
+cache/
+__pycache__/
+TEMP/
+
+# Исключение для всех файлов в определённых папках
+data/
+db/
+embeddings/
+log/
+myenv/
+
+*.log
+*.txt
+*.pdf
